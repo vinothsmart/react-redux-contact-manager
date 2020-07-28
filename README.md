@@ -1,13 +1,14 @@
 ## Installing Npm Packages
 
--@material-ui/core
--@material-ui/icons
--react-redux
--redux
--redux-thunk
--react-router-dom
+- @material-ui/core
+- @material-ui/icons
+- react-redux
+- redux
+- redux-thunk
+- react-router-dom
 
 -@material-ui/core [npm install @material-ui/core](https://material-ui.com/).
+-@material-ui/icons [npm install @material-ui/icons](https://www.npmjs.com/package/@material-ui/icons).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
