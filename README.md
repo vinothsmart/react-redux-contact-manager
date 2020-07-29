@@ -1,12 +1,32 @@
 ## Installing Npm Packages
 
-- @material-ui/core [npm install @material-ui/core](https://material-ui.com/) npm install @material-ui/core.
-- @material-ui/icons [npm install @material-ui/icons](https://www.npmjs.com/package/@material-ui/icons) npm install @material-ui/icons.
-- react-redux [npm install react-redux](https://www.npmjs.com/package/react-redux) npm install react-redux.
-- redux [npm install --save redux](https://www.npmjs.com/package/redux) npm install --save redux.
-- redux-thunk [npm install --save redux-thunk](https://www.npmjs.com/package/redux-thunk) npm install --save redux-thunk.
-- react-router-dom [npm install --save react-router-dom](https://www.npmjs.com/package/react-router-dom) npm install --save react-router-dom.
-- react-router [npm install --save react-router](https://www.npmjs.com/package/react-router) npm install --save react-router.
+- @material-ui/core [npm install @material-ui/core](https://material-ui.com/).
+
+### `npm install @material-ui/core`
+
+- @material-ui/icons [npm install @material-ui/icons](https://www.npmjs.com/package/@material-ui/icons).
+
+### `npm install @material-ui/icons`
+
+- react-redux [npm install react-redux](https://www.npmjs.com/package/react-redux).
+
+### `npm install react-redux`
+
+- redux [npm install --save redux](https://www.npmjs.com/package/redux).
+
+### `npm install --save redux`
+
+- redux-thunk [npm install --save redux-thunk](https://www.npmjs.com/package/redux-thunk).
+
+### `npm install --save redux-thunk`
+
+- react-router-dom [npm install --save react-router-dom](https://www.npmjs.com/package/react-router-dom).
+
+### `npm install --save react-router-dom`
+
+- react-router [npm install --save react-router](https://www.npmjs.com/package/react-router).
+
+### `npm install --save react-router`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
